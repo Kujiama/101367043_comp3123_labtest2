@@ -1,0 +1,7 @@
+form{
+    margin-bottom: 10px;
+}
+
+form .city-input, .btn{
+    font-size: 35px;
+}
